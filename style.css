@@ -1,0 +1,13 @@
+div{
+    width:230px ;
+    height:297px ;
+    border: 2px solid #CCCCCC;
+    overflow-x: scroll;
+    float: left;
+}
+img{
+    float: right;
+    width: 560px;
+    height: 646.53px;
+    
+}
